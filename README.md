@@ -25,7 +25,7 @@ This is an advanced *ToDo* list app built entirely with plain JavaScript, design
 
 ## 🎬 Demo
 
-![Advanced ToDo](.demo.gif)
+![Advanced ToDo](./demo.gif)
 
 ---
 
