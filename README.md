@@ -27,18 +27,7 @@ This is an advanced *ToDo* list app built entirely with plain JavaScript, design
 
 ![Advanced ToDo](./demo.gif)
 
----
 
-## 🚀 How to Use
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/advanced-todo.git
-```
-2. Open index.html in your browser.
 
----
-
-## 🎯 Purpose
-This project is strictly educational, meant to practice logic, DOM manipulation, and browser storage with plain JavaScript.
 
