@@ -37,3 +37,8 @@ git clone https://github.com/your-username/advanced-todo.git
 ```
 2. Open index.html in your browser.
 
+---
+
+## 🎯 Purpose
+This project is strictly educational, meant to practice logic, DOM manipulation, and browser storage with plain JavaScript.
+
